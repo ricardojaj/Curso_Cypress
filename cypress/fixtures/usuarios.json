@@ -1,0 +1,19 @@
+{
+    "usuarios": [
+        {
+            "name": "Pedro Henrique",
+            "email": "pedro@teste.com",
+            "password": "Senha123456" 
+        },
+        {
+            "name": "Maria Fernanda",
+            "email": "MaFernada@teste.com",
+            "password": "Senha12345678910" 
+        },
+        {
+            "name": "Maria Helena",
+            "email": "helena@teste.com.br",
+            "password": "Senha12345678" 
+        }
+    ]
+}
