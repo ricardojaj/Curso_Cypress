@@ -4,3 +4,4 @@ node_modules/
 *.tmp
 cypress/results/
 cypress/videos/
+cypress.env.json
